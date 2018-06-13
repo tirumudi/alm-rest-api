@@ -1,3 +1,5 @@
+Forked from Okean\alm-rest-api
+
 ## ALM REST API Integration
 [![Build Status](https://travis-ci.org/okean/alm-rest-api.svg?branch=master)](https://travis-ci.org/okean/alm-rest-api)
 [![Coverage Status](https://coveralls.io/repos/github/okean/alm-rest-api/badge.svg?branch=master)](https://coveralls.io/github/okean/alm-rest-api?branch=master)
@@ -24,9 +26,5 @@ TestSet testSet = client.loadTestSet("1");
 
 client.logout();
 ```
-
-### REST API Overview
-http://alm-help.saas.hpe.com/en/12.50/api_refs/REST_TECH_PREVIEW/ALM_REST_API_TP.html
-
 ### Licensing
 See [LICENSE](https://github.com/okean/alm-rest-api/blob/master/LICENSE)
